@@ -1,0 +1,352 @@
+﻿PokerStars Hand #135873625463:  8-Game (Hold'em Limit, $0.20/$0.40 USD) - 2015/05/27 9:06:46 CET [2015/05/27 3:06:46 ET]
+Table 'Nasl II' 6-max Seat #2 is the button
+Seat 1: kadillak64 ($1.24 in chips) 
+Seat 2: Trine120 ($10 in chips) 
+Seat 3: dubsratao ($10.24 in chips) 
+Seat 4: Latuz ($18.45 in chips) 
+Seat 5: andlon ($11.44 in chips) 
+Seat 6: Bmv21 ($5.02 in chips) 
+dubsratao: posts small blind $0.10
+Latuz: posts big blind $0.20
+*** HOLE CARDS ***
+Dealt to andlon [6s 3h]
+andlon: folds 
+Bmv21: folds 
+kadillak64: calls $0.20
+Trine120: calls $0.20
+dubsratao: calls $0.10
+Latuz: raises $0.20 to $0.40
+kadillak64: calls $0.20
+Trine120: calls $0.20
+dubsratao: calls $0.20
+*** FLOP *** [Qc 5s 3s]
+dubsratao: checks 
+Latuz: bets $0.20
+kadillak64: raises $0.20 to $0.40
+Trine120: folds 
+dubsratao: folds 
+Latuz: calls $0.20
+*** TURN *** [Qc 5s 3s] [5d]
+Latuz: bets $0.40
+kadillak64: raises $0.04 to $0.44 and is all-in
+Latuz: calls $0.04
+*** RIVER *** [Qc 5s 3s 5d] [As]
+*** SHOW DOWN ***
+Latuz: shows [Jd Ad] (two pair, Aces and Fives)
+kadillak64: shows [Kh 7c] (a pair of Fives)
+Latuz collected $3.13 from pot
+*** SUMMARY ***
+Total pot $3.28 | Rake $0.15 
+Board [Qc 5s 3s 5d As]
+Seat 1: kadillak64 showed [Kh 7c] and lost with a pair of Fives
+Seat 2: Trine120 (button) folded on the Flop
+Seat 3: dubsratao (small blind) folded on the Flop
+Seat 4: Latuz (big blind) showed [Jd Ad] and won ($3.13) with two pair, Aces and Fives
+Seat 5: andlon folded before Flop (didn't bet)
+Seat 6: Bmv21 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #135873642875:  8-Game (Hold'em Limit, $0.20/$0.40 USD) - 2015/05/27 9:07:52 CET [2015/05/27 3:07:52 ET]
+Table 'Nasl II' 6-max Seat #3 is the button
+Seat 2: Trine120 ($10 in chips) 
+Seat 3: dubsratao ($10 in chips) 
+Seat 4: Latuz ($20.34 in chips) 
+Seat 5: andlon ($11.44 in chips) 
+Seat 6: Bmv21 ($5.02 in chips) 
+Latuz: posts small blind $0.10
+andlon: posts big blind $0.20
+*** HOLE CARDS ***
+Dealt to andlon [Qd 8d]
+kadillak64 leaves the table
+Bmv21: folds 
+Trine120: folds 
+dubsratao: folds 
+Latuz: folds 
+Uncalled bet ($0.10) returned to andlon
+andlon collected $0.20 from pot
+andlon: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: Trine120 folded before Flop (didn't bet)
+Seat 3: dubsratao (button) folded before Flop (didn't bet)
+Seat 4: Latuz (small blind) folded before Flop
+Seat 5: andlon (big blind) collected ($0.20)
+Seat 6: Bmv21 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #135873648707:  8-Game (Omaha Hi/Lo Limit, $0.20/$0.40 USD) - 2015/05/27 9:08:14 CET [2015/05/27 3:08:14 ET]
+Table 'Nasl II' 6-max Seat #4 is the button
+Seat 2: Trine120 ($10 in chips) 
+Seat 3: dubsratao ($10 in chips) 
+Seat 4: Latuz ($20.24 in chips) 
+Seat 5: andlon ($11.54 in chips) 
+Seat 6: Bmv21 ($5.02 in chips) 
+andlon: posts small blind $0.10
+Bmv21: posts big blind $0.20
+*** HOLE CARDS ***
+Dealt to andlon [5c 4h 4d 3d]
+Trine120: folds 
+dubsratao: folds 
+Latuz: folds 
+andlon: raises $0.20 to $0.40
+Bmv21: raises $0.20 to $0.60
+andlon: calls $0.20
+*** FLOP *** [Ts Ac 2h]
+andlon: checks 
+Bmv21: bets $0.20
+andlon: raises $0.20 to $0.40
+Bmv21: calls $0.20
+*** TURN *** [Ts Ac 2h] [Jd]
+andlon: bets $0.40
+Bmv21: calls $0.40
+*** RIVER *** [Ts Ac 2h Jd] [5h]
+andlon: bets $0.40
+Bmv21: calls $0.40
+*** SHOW DOWN ***
+andlon: shows [5c 4h 4d 3d] (HI: a straight, Ace to Five; LO: 5,4,3,2,A)
+Bmv21: mucks hand 
+andlon collected $1.72 from pot
+andlon collected $1.72 from pot
+*** SUMMARY ***
+Total pot $3.60 | Rake $0.16 
+Board [Ts Ac 2h Jd 5h]
+Seat 2: Trine120 folded before Flop (didn't bet)
+Seat 3: dubsratao folded before Flop (didn't bet)
+Seat 4: Latuz (button) folded before Flop (didn't bet)
+Seat 5: andlon (small blind) showed [5c 4h 4d 3d] and won ($3.44) with HI: a straight, Ace to Five; LO: 5,4,3,2,A
+Seat 6: Bmv21 (big blind) mucked [6d 3c 9c Tc]
+
+
+
+PokerStars Hand #135873663866:  8-Game (Omaha Hi/Lo Limit, $0.20/$0.40 USD) - 2015/05/27 9:09:11 CET [2015/05/27 3:09:11 ET]
+Table 'Nasl II' 6-max Seat #5 is the button
+Seat 2: Trine120 ($10 in chips) 
+Seat 3: dubsratao ($10 in chips) 
+Seat 4: Latuz ($20.24 in chips) 
+Seat 5: andlon ($13.18 in chips) 
+Seat 6: Bmv21 ($3.22 in chips) 
+Bmv21: posts small blind $0.10
+Trine120: posts big blind $0.20
+*** HOLE CARDS ***
+Dealt to andlon [Td 2c Qs 3s]
+dubsratao: raises $0.20 to $0.40
+Latuz: folds 
+andlon: folds 
+Bmv21: calls $0.30
+Trine120: folds 
+*** FLOP *** [2h Qc Ts]
+Bmv21: checks 
+dubsratao: bets $0.20
+Bmv21: calls $0.20
+*** TURN *** [2h Qc Ts] [8s]
+Bmv21: checks 
+dubsratao: checks 
+*** RIVER *** [2h Qc Ts 8s] [9d]
+Bmv21: bets $0.40
+dubsratao: calls $0.40
+*** SHOW DOWN ***
+Bmv21: shows [7c As Jh 7d] (HI: a straight, Seven to Jack)
+dubsratao: mucks hand 
+Bmv21 collected $2.10 from pot
+No low hand qualified
+*** SUMMARY ***
+Total pot $2.20 | Rake $0.10 
+Board [2h Qc Ts 8s 9d]
+Seat 2: Trine120 (big blind) folded before Flop
+Seat 3: dubsratao mucked [7h 5d 6h 4c]
+Seat 4: Latuz folded before Flop (didn't bet)
+Seat 5: andlon (button) folded before Flop (didn't bet)
+Seat 6: Bmv21 (small blind) showed [7c As Jh 7d] and won ($2.10) with HI: a straight, Seven to Jack
+
+
+
+PokerStars Hand #135873673655:  8-Game (Omaha Hi/Lo Limit, $0.20/$0.40 USD) - 2015/05/27 9:09:48 CET [2015/05/27 3:09:48 ET]
+Table 'Nasl II' 6-max Seat #6 is the button
+Seat 2: Trine120 ($10 in chips) 
+Seat 3: dubsratao ($10 in chips) 
+Seat 4: Latuz ($20.24 in chips) 
+Seat 5: andlon ($13.18 in chips) 
+Seat 6: Bmv21 ($4.32 in chips) 
+Trine120: posts small blind $0.10
+dubsratao: posts big blind $0.20
+*** HOLE CARDS ***
+Dealt to andlon [7h 4h 9d 3s]
+Latuz: raises $0.20 to $0.40
+andlon: folds 
+lovinlife5 joins the table at seat #1 
+Bmv21: calls $0.40
+Trine120: calls $0.30
+dubsratao: folds 
+*** FLOP *** [5h 9h Jh]
+Trine120: checks 
+Latuz: bets $0.20
+Bmv21: raises $0.20 to $0.40
+Trine120: folds 
+Latuz: calls $0.20
+*** TURN *** [5h 9h Jh] [Qd]
+Latuz: checks 
+Bmv21: bets $0.40
+Latuz: calls $0.40
+*** RIVER *** [5h 9h Jh Qd] [8d]
+Latuz: checks 
+Bmv21: checks 
+*** SHOW DOWN ***
+Latuz: shows [2c 6s Js 5c] (HI: two pair, Jacks and Fives)
+Bmv21: shows [8c 6c Th 3h] (HI: a flush, Jack high)
+Bmv21 collected $2.86 from pot
+No low hand qualified
+*** SUMMARY ***
+Total pot $3 | Rake $0.14 
+Board [5h 9h Jh Qd 8d]
+Seat 2: Trine120 (small blind) folded on the Flop
+Seat 3: dubsratao (big blind) folded before Flop
+Seat 4: Latuz showed [2c 6s Js 5c] and lost with HI: two pair, Jacks and Fives
+Seat 5: andlon folded before Flop (didn't bet)
+Seat 6: Bmv21 (button) showed [8c 6c Th 3h] and won ($2.86) with HI: a flush, Jack high
+
+
+
+PokerStars Hand #135873685611:  8-Game (Omaha Hi/Lo Limit, $0.20/$0.40 USD) - 2015/05/27 9:10:34 CET [2015/05/27 3:10:34 ET]
+Table 'Nasl II' 6-max Seat #2 is the button
+Seat 2: Trine120 ($10 in chips) 
+Seat 3: dubsratao ($10 in chips) 
+Seat 4: Latuz ($19.04 in chips) 
+Seat 5: andlon ($13.18 in chips) 
+Seat 6: Bmv21 ($5.98 in chips) 
+dubsratao: posts small blind $0.10
+Latuz: posts big blind $0.20
+lovinlife5: sits out 
+*** HOLE CARDS ***
+Dealt to andlon [Tc 2c 6d 8c]
+andlon: folds 
+Bmv21: calls $0.20
+Trine120: calls $0.20
+dubsratao: folds 
+Latuz: raises $0.20 to $0.40
+Bmv21: calls $0.20
+Trine120: calls $0.20
+*** FLOP *** [7h Jh 3d]
+Latuz: bets $0.20
+Bmv21: calls $0.20
+Trine120: calls $0.20
+*** TURN *** [7h Jh 3d] [4h]
+Latuz: bets $0.40
+Bmv21: calls $0.40
+Trine120: folds 
+*** RIVER *** [7h Jh 3d 4h] [Qs]
+Latuz: bets $0.40
+Bmv21: calls $0.40
+*** SHOW DOWN ***
+Latuz: shows [Qd 7s Kd 4s] (HI: two pair, Queens and Sevens)
+Bmv21: shows [5s 6h Kc 5d] (HI: a straight, Three to Seven; LO: 7,6,5,4,3)
+Bmv21 collected $1.67 from pot
+Bmv21 collected $1.67 from pot
+*** SUMMARY ***
+Total pot $3.50 | Rake $0.16 
+Board [7h Jh 3d 4h Qs]
+Seat 2: Trine120 (button) folded on the Turn
+Seat 3: dubsratao (small blind) folded before Flop
+Seat 4: Latuz (big blind) showed [Qd 7s Kd 4s] and lost with HI: two pair, Queens and Sevens
+Seat 5: andlon folded before Flop (didn't bet)
+Seat 6: Bmv21 showed [5s 6h Kc 5d] and won ($3.34) with HI: a straight, Three to Seven; LO: 7,6,5,4,3
+
+
+
+PokerStars Hand #135873700219:  8-Game (Omaha Hi/Lo Limit, $0.20/$0.40 USD) - 2015/05/27 9:11:30 CET [2015/05/27 3:11:30 ET]
+Table 'Nasl II' 6-max Seat #3 is the button
+Seat 2: Trine120 ($10 in chips) 
+Seat 3: dubsratao ($10 in chips) 
+Seat 4: Latuz ($17.64 in chips) 
+Seat 5: andlon ($13.18 in chips) 
+Seat 6: Bmv21 ($7.92 in chips) 
+Latuz: posts small blind $0.10
+andlon: posts big blind $0.20
+lovinlife5: sits out 
+*** HOLE CARDS ***
+Dealt to andlon [9c 5s 9s 3c]
+Bmv21: raises $0.20 to $0.40
+Trine120: calls $0.40
+dubsratao: folds 
+Latuz: raises $0.20 to $0.60
+andlon: folds 
+Bmv21: raises $0.20 to $0.80
+Betting is capped
+Trine120: folds 
+Latuz: calls $0.20
+*** FLOP *** [6s 8c 7h]
+Latuz: checks 
+Bmv21: bets $0.20
+Latuz: raises $0.20 to $0.40
+Bmv21: calls $0.20
+*** TURN *** [6s 8c 7h] [8s]
+Latuz: bets $0.40
+Bmv21: raises $0.40 to $0.80
+Latuz: raises $0.40 to $1.20
+Bmv21: calls $0.40
+*** RIVER *** [6s 8c 7h 8s] [Qh]
+Latuz: bets $0.40
+Bmv21: calls $0.40
+*** SHOW DOWN ***
+Latuz: shows [7s As 7d 2c] (HI: a full house, Sevens full of Eights; LO: 8,7,6,2,A)
+Bmv21: mucks hand 
+Latuz collected $3.02 from pot
+Latuz collected $3.02 from pot
+*** SUMMARY ***
+Total pot $6.20 | Rake $0.16 
+Board [6s 8c 7h 8s Qh]
+Seat 2: Trine120 folded before Flop
+Seat 3: dubsratao (button) folded before Flop (didn't bet)
+Seat 4: Latuz (small blind) showed [7s As 7d 2c] and won ($6.04) with HI: a full house, Sevens full of Eights; LO: 8,7,6,2,A
+Seat 5: andlon (big blind) folded before Flop
+Seat 6: Bmv21 mucked [3h Kd Ts Ks]
+
+
+
+PokerStars Hand #135873712630:  8-Game (Omaha Hi/Lo Limit, $0.20/$0.40 USD) - 2015/05/27 9:12:17 CET [2015/05/27 3:12:17 ET]
+Table 'Nasl II' 6-max Seat #4 is the button
+Seat 2: Trine120 ($10 in chips) 
+Seat 3: dubsratao ($10 in chips) 
+Seat 4: Latuz ($20.88 in chips) 
+Seat 5: andlon ($12.98 in chips) 
+Seat 6: Bmv21 ($5.12 in chips) 
+andlon: posts small blind $0.10
+Bmv21: posts big blind $0.20
+lovinlife5: sits out 
+*** HOLE CARDS ***
+Dealt to andlon [Ad 6s 5h Jh]
+Trine120: folds 
+dubsratao: folds 
+Latuz: raises $0.20 to $0.40
+andlon: calls $0.30
+Bmv21: calls $0.20
+*** FLOP *** [4h 5c Qd]
+andlon: checks 
+Bmv21: bets $0.20
+Latuz: calls $0.20
+andlon: calls $0.20
+*** TURN *** [4h 5c Qd] [2s]
+andlon: checks 
+Bmv21: bets $0.40
+Latuz: folds 
+andlon: calls $0.40
+*** RIVER *** [4h 5c Qd 2s] [8d]
+andlon: checks 
+Bmv21: checks 
+*** SHOW DOWN ***
+andlon: shows [Ad 6s 5h Jh] (HI: a pair of Fives; LO: 6,5,4,2,A)
+Bmv21: shows [7d 4s Kc 8c] (HI: two pair, Eights and Fours; LO: 8,7,5,4,2)
+Bmv21 collected $1.24 from pot
+andlon collected $1.24 from pot
+*** SUMMARY ***
+Total pot $2.60 | Rake $0.12 
+Board [4h 5c Qd 2s 8d]
+Seat 2: Trine120 folded before Flop (didn't bet)
+Seat 3: dubsratao folded before Flop (didn't bet)
+Seat 4: Latuz (button) folded on the Turn
+Seat 5: andlon (small blind) showed [Ad 6s 5h Jh] and won ($1.24) with HI: a pair of Fives; LO: 6,5,4,2,A
+Seat 6: Bmv21 (big blind) showed [7d 4s Kc 8c] and won ($1.24) with HI: two pair, Eights and Fours; LO: 8,7,5,4,2
+
+
+
