@@ -12,4 +12,4 @@ def plot_graph(session):
 	plt.show()
 #print read_session_rom_file('HH20150527 Nasl II - $0.20-$0.40 - USD 8-Game'+'.txt')
 
-plot_graph( read_session_rom_file('HH20150527 Nasl II - $0.20-$0.40 - USD 8-Game.txt') )
+plot_graph( read_session_rom_file('HH20150527 Nasl II - $0.20-$0.40 - USD 8-Game'+'.txt') )
